@@ -1,0 +1,169 @@
+    1  cd /desktop
+    2  cd /RockboxUtility.app 
+    3  sudo open rbutilqt.app
+    4  sudo open RockboxUtility.app
+    5  sudo open /RockboxUtility.app
+    6  sudo open /RockboxUtility.app
+    7  /Volumes/ipodpatcher-5.0/ipodpatcher ; exit;
+    8  cd /Volumes/ipodpatcher-5.0/
+    9  sudo get open /Volumes/ipodpatcher-5.0/ipodpatcher 
+   10  sudo open /Volumes/ipodpatcher-5.0/ipodpatcher 
+   11  sudo open /Users/hakanmacpro/Desktop/RockboxUtility.app 
+   12  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   13  /Volumes/TOSHIBA\ EXT/Windows/Windows10_InsiderPreview_EnterpriseVL_x64_tr-tr_14986.iso 
+   14   ---- xcode-select --install ---- brew install homebrew/fuse/ntfs-3g
+   15  xcode-select --install ---- brew install homebrew/fuse/ntfs-3g
+   16  xcode-select install ---- brew install homebrew/fuse/ntfs-3g
+   17  xcode-select install brew install homebrew/fuse/ntfs-3g
+   18  ---- xcode-select --install ---- brew install homebrew/fuse/ntfs-3g
+   19  ----xcode-select --install ---- brew install homebrew/fuse/ntfs-3g
+   20  ---- xcode-select --install ---- brew install homebrew/fuse/ntfs-3g
+   21  ---- xcode-select --install
+   22  xcode-select --install
+   23   brew install homebrew/fuse/ntfs-3g
+   24  sudo mv /sbin/mount_ntfs /sbin/mount_ntfs.original ---- sudo ln -s /usr/local/sbin/mount_ntfs /sbin/mount_ntfs
+   25  sudo mv /sbin/mount_ntfs /sbin/mount_ntfs.original ---- sudo ln -s /usr/local/sbin/mount_ntfs /sbin/mount_ntfs
+   26  sudo mv /sbin/mount_ntfs/sbin/mount_ntfs.original
+   27  sudo mv /sbin/mount_ntfs/sbin/mount_ntfs.original
+   28  csrutil status
+   29  sudo mv /sbin/mount_ntfs/sbin/mount_ntfs.original
+   30  sudo mv/sbin/mount_ntfs/sbin/mount_ntfs.original
+   31  sudo mv /sbin/mount_ntfs/sbin/mount_ntfs.original
+   32  sudo mv /sbin/mount_ntfs/ sbin/mount_ntfs.original
+   33  sudo ln -s /usr/local/sbin/mount_ntfs /sbin/mount_ntfs
+   34  sudo ln -s /usr/local/sbin/mount_ntfs/sbin/mount_ntfs
+   35  csrutil
+   36  csrutil status
+   37  brew uninstall ntfs-3g
+   38  sudo mv "/Volumes/Macintosh HD/sbin/mount_ntfs.orig" "/Volumes/Macintosh HD/sbin/mount_ntfs"
+   39  sudo mv "/Volumes/Macintosh HD/sbin/mount_ntfs.orig" "/Volumes/Macintosh /sbin/mount_ntfs"
+   40  sudo mv "/Volumes/Macintosh /sbin/mount_ntfs.orig" "/Volumes/Macintosh /sbin/mount_ntfs"
+   41  brew uninstall ntfs-3g
+   42  /Users/hakanmacpro/Downloads/rar\ 2/rar ; exit;
+   43  rar
+   44  cd
+   45  cd indirilenler
+   46  cd downloand
+   47  cd download
+   48  cd /
+   49  /Users/hakanmacpro/Downloads/rar/rar 
+   50  cd /Users/hakanmacpro/Downloads/rar/rar 
+   51  cd /Users/hakanmacpro/Downloads/rar/ 
+   52  rar a
+   53  -rar a
+   54  rar a a
+   55  diskutil list
+   56  sudo diskutil eraseDisk FAT32 NAME MBRFormat /dev/disk2
+   57  sudo
+   58  dıskutil list
+   59  diskutil list
+   60  sudo diskutil eraseDisk FAT32 NAME MBRFormat /dev/disk1
+   61  sudo diskutil eraseDisk FAT32 NAME MBRFormat /dev/disk2
+   62  sudo diskutil eraseDisk FAT32 NAME MBRFormat /dev/disk
+   63  diskutil list
+   64  sudo diskutil eraseDisk FAT32 NAME MBRFormat /dev/disk2
+   65  sudo diskutil eraseDisk FAT32 NAME MBRFormat /dev/disk2
+   66  sudo diskutil eraseDisk FAT32 NAME MBRFormat /dev/disk2
+   67  sudo diskutil eraseDisk FAT32 NAME MBRFormat /dev/disk3
+   68  sudo diskutil eraseDisk FAT32 NAME MBRFormat /dev/disk3
+   69  sudo diskutil eraseDisk FAT32 NAME MBRFormat /dev/disk3
+   70  sudo diskutil eraseDisk FAT32 NAME MBRFormat /dev/disk3
+   71  /Volumes/EPSON/Install\ Navi.app/Contents/MacOS/Install\ Navi ; exit;
+   72  sudo nano /private/etc/hosts
+   73  clang --version
+   74  clang
+   75  clang-703.0.29
+   76  clang 703.0.29
+   77  ls
+   78  bitwalk
+   79  binwalk
+   80  sudo tmutil listlocalsnapshots /
+   81  sudo tmutil listlocalsnapshots /
+   82  pwd
+   83  touch .bash_profile
+   84  open -t .bash_profile
+   85  sudo sreboot
+   86  sudo reboot
+   87  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+   88  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+   89  brew install ntfs-3g
+   90  sudo mv "/sbin/mount_ntfs" "/sbin/mount_ntfs.original"
+   91  sudo ln -s /usr/local/sbin/mount_ntfs "/sbin/mount_ntfs"
+   92  sudo mv /sbin/mount_ntfs" "/sbin/mount_ntfs.original
+   93  sudo mv "/sbin/mount_ntfs" "/sbin/mount_ntfs.original"
+   94  sudo ln -s /usr/local/sbin/mount_ntfs "/sbin/mount_ntfs"
+   95  sudo mv "/sbin/mount_ntfs" "/sbin/mount_ntfs.original"
+   96  diskutil list
+   97  diskutil eraseDisk MS-DOS "WIN10" GPT /dev/disk3
+   98  diskutil eraseDisk MS-DOS "WIN10" GPT /dev/disk3
+   99  hdiutil mount /Users/hakanmacpro/Downloads/Win10_2004_Turkish_x64.iso 
+  100  rsync -vha --exclude=sources/install.wim /Volumes/CCCOMA_X64FRE_TR-TR_DV9/ /Volumes/WIN10
+  101  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  102  SUDO
+  103  sudo /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  104  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  105  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  106  $ brew install git
+  107  brew install git
+  108  sudo rm -rf /Library/Developer/CommandLineTools
+  109  brew install git
+  110  brew install git
+  111  xcode-select --install
+  112  brew install git
+  113  cd
+  114  cd..
+  115  cd.
+  116  cd
+  117  list
+  118  ls
+  119  ls ödev
+  120  ls
+  121  ls 
+  122  ls ödev
+  123  ls
+  124  cd
+  125  cd ödev
+  126  ls
+  127  hşstory -c
+  128  clean
+  129  clear
+  130  git config --global user.name"hakan34-maker"
+  131  git config --global user.email "yaz-08@msn.com"
+  132  git clone https://github.com/hakan34-maker/HW_10.git
+  133  cd HW_10
+  134  git status
+  135  touch text_ignore.txt
+  136  vin .gitignore
+  137  vim .gitignore
+  138  cd ödev
+  139  cd HW_10
+  140  ls
+  141  git status
+  142  git add
+  143  git add .
+  144  git commit
+  145  cd ödev
+  146  cd HW_10
+  147  git commit -m "commitledim"
+  148  mk main_test.txt
+  149  touch  main_test.txt
+  150  git add .
+  151  git commit -m "görev2"
+  152  git branch develop
+  153  git checkout develop
+  154  touch develop_test.txt
+  155  git add .
+  156  git commit -m " görev3"
+  157  git status
+  158  git add .
+  159  git commit -m "görev_3"
+  160  git checkout main
+  161  git merge develop
+  162  git log
+  163  git bash
+  164  git BASH
+  165  git --help
+  166  git bash
+  167  git history
+  168  git BASH
+  169  history>command_list.csv
